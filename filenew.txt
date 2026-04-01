@@ -1,2 +1,2 @@
 We are on new branch
-and it is updated
+it is updated and merged manually
